@@ -2,7 +2,7 @@
 
 class Program
 {
-  static  void zadanie2()
+    static void zadanie2()
     {
         Console.Write("Enter first number: ");
         int a = Convert.ToInt32(Console.ReadLine());
@@ -23,8 +23,9 @@ class Program
         Console.WriteLine(b);
     }
 
- static   void zadanie3()
-    {   Console.Write("Enter first number: ");
+    static void zadanie3()
+    {
+        Console.Write("Enter first number: ");
         int a = Convert.ToInt32(Console.ReadLine());
         Console.Write("Enter second number: ");
         int b = Convert.ToInt32(Console.ReadLine());
