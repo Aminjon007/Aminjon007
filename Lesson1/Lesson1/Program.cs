@@ -5,7 +5,11 @@ namespace DZ1;
 class Program
 {
     static void Main(string[] args)
-    { 
+    {
+        int age = Convert.ToInt16((Console.ReadLine()));
+        Console.WriteLine($"Hello, {age} years old.");
+        age = 14;
+        Console.WriteLine($"Hello, {age} years old.");
         //___________begin1 
         int a = 13;
         int p = 4 * a;
