@@ -7,7 +7,6 @@ class Program
     static void Main(string[] args)
     { 
         //___________begin1 
-
         int a = 13;
         int p = 4 * a;
         Console.WriteLine("P= " + p);
