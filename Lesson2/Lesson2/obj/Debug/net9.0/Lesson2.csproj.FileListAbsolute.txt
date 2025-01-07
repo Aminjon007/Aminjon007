@@ -1,0 +1,15 @@
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson2/Lesson2/bin/Debug/net9.0/Lesson2
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson2/Lesson2/bin/Debug/net9.0/Lesson2.deps.json
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson2/Lesson2/bin/Debug/net9.0/Lesson2.runtimeconfig.json
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson2/Lesson2/bin/Debug/net9.0/Lesson2.dll
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson2/Lesson2/bin/Debug/net9.0/Lesson2.pdb
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson2/Lesson2/obj/Debug/net9.0/Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson2/Lesson2/obj/Debug/net9.0/Lesson2.AssemblyInfoInputs.cache
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson2/Lesson2/obj/Debug/net9.0/Lesson2.AssemblyInfo.cs
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson2/Lesson2/obj/Debug/net9.0/Lesson2.csproj.CoreCompileInputs.cache
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson2/Lesson2/obj/Debug/net9.0/Lesson2.sourcelink.json
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson2/Lesson2/obj/Debug/net9.0/Lesson2.dll
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson2/Lesson2/obj/Debug/net9.0/refint/Lesson2.dll
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson2/Lesson2/obj/Debug/net9.0/Lesson2.pdb
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson2/Lesson2/obj/Debug/net9.0/Lesson2.genruntimeconfig.cache
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson2/Lesson2/obj/Debug/net9.0/ref/Lesson2.dll
