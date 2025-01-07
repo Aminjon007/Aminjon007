@@ -1,7 +1,6 @@
 ﻿using System;
 
-namespace DZ1;
-
+namespace Lesson1;
 class Program
 {
     static void Main(string[] args)
