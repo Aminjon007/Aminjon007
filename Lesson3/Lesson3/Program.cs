@@ -10,7 +10,6 @@ class Program
         int b = Convert.ToInt32(Console.ReadLine());
         if (a != b)
         {
-            
             a++;
             b++;
         }

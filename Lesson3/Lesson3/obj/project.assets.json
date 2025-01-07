@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "/home/velox/.nuget/packages/": {}
+    "/home/a/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/velox/Desktop/Aminjon/Projects/AlifLesson/Lesson3/Lesson3/Lesson3.csproj",
+      "projectUniqueName": "/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson3/Lesson3/Lesson3.csproj",
       "projectName": "Lesson3",
-      "projectPath": "/home/velox/Desktop/Aminjon/Projects/AlifLesson/Lesson3/Lesson3/Lesson3.csproj",
-      "packagesPath": "/home/velox/.nuget/packages/",
-      "outputPath": "/home/velox/Desktop/Aminjon/Projects/AlifLesson/Lesson3/Lesson3/obj/",
+      "projectPath": "/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson3/Lesson3/Lesson3.csproj",
+      "packagesPath": "/home/a/.nuget/packages/",
+      "outputPath": "/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson3/Lesson3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/velox/.nuget/NuGet/NuGet.Config"
+        "/home/a/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/home/velox/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/a/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

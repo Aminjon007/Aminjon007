@@ -58,6 +58,5 @@ class Program
                 Console.WriteLine($"Delenie= {f / g}");
                 break;
         }
-        
     }
 }
