@@ -5,6 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        
         int age = Convert.ToInt16((Console.ReadLine()));
         Console.WriteLine($"Hello, {age} years old.");
         age = 14;
