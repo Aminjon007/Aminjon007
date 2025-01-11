@@ -9,7 +9,6 @@ class Program
         int b = Convert.ToInt16(Console.ReadLine());
         int sum = 0;
         for (int i = a; i < b; i++)sum += i;
-        
         Console.WriteLine("Sum="+sum);
         //______________________________________
         int c = Convert.ToInt16(Console.ReadLine());

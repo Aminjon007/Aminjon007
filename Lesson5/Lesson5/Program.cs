@@ -10,7 +10,6 @@ class Program
         
         int min = 0;
         int max = 9999;
-        
         List<int> chetnie = new List<int>();
         List<int> neChetnie = new List<int>();
         

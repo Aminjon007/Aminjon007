@@ -4,6 +4,7 @@ class Program
 {
     static void zadanie2()
     {
+        
         Console.Write("Enter first number: ");
         int a = Convert.ToInt32(Console.ReadLine());
         Console.Write("Enter second number: ");

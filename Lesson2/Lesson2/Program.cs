@@ -6,6 +6,7 @@ class Program
 {
     static void Main()
     {
+        
         // 1
         Console.Write("Enter number: ");
         int a = Convert.ToInt16(Console.ReadLine());
