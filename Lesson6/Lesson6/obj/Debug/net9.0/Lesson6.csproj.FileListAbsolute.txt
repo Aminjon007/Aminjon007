@@ -1,0 +1,15 @@
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/bin/Debug/net9.0/Lesson6
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/bin/Debug/net9.0/Lesson6.deps.json
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/bin/Debug/net9.0/Lesson6.runtimeconfig.json
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/bin/Debug/net9.0/Lesson6.dll
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/bin/Debug/net9.0/Lesson6.pdb
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/obj/Debug/net9.0/Lesson6.GeneratedMSBuildEditorConfig.editorconfig
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/obj/Debug/net9.0/Lesson6.AssemblyInfoInputs.cache
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/obj/Debug/net9.0/Lesson6.AssemblyInfo.cs
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/obj/Debug/net9.0/Lesson6.csproj.CoreCompileInputs.cache
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/obj/Debug/net9.0/Lesson6.sourcelink.json
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/obj/Debug/net9.0/Lesson6.dll
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/obj/Debug/net9.0/refint/Lesson6.dll
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/obj/Debug/net9.0/Lesson6.pdb
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/obj/Debug/net9.0/Lesson6.genruntimeconfig.cache
+/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/obj/Debug/net9.0/ref/Lesson6.dll

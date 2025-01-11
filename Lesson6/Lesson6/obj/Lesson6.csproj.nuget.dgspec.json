@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/Lesson6.csproj": {}
+  },
+  "projects": {
+    "/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/Lesson6.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/Lesson6.csproj",
+        "projectName": "Lesson6",
+        "projectPath": "/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/Lesson6.csproj",
+        "packagesPath": "/home/a/.nuget/packages/",
+        "outputPath": "/home/a/Desktop/AJ/AlifLesson/Lesson/Lesson6/Lesson6/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/a/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/a/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
