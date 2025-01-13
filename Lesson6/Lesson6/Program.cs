@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Lesson6;
 
 class Program
@@ -10,15 +11,18 @@ class Program
         SumOfArr(arr);
         Max(ref arr);
         Sum(5);
-        Console.WriteLine("Sum= "+sum);
-          void Sum(int  a)
+        Console.WriteLine("Sum= " + sum);
+
+        void Sum(int a)
         {
-            if (a==0)return ;
+            if (a == 0) return;
             sum += a;
-            Sum(a-=1);
+            Sum(a -= 1);
         }
+
+        Console.WriteLine(Pow1(12));
     }
-    
+
     static void SumOfArr(int[] arr)
     {
         int sum = 0;
@@ -27,7 +31,7 @@ class Program
             sum += arr[i];
         }
 
-        Console.WriteLine("Sum= "+sum);
+        Console.WriteLine("Sum= " + sum);
     }
 
     static void Max(ref int[] arr)
@@ -38,7 +42,13 @@ class Program
             if (arr[i] > max) max = arr[i];
         }
 
-        Console.WriteLine("Max= "+max);
+        Console.WriteLine("Max= " + max);
+    }
+
+    static int Pow1(int a)
+    {
+        Console.WriteLine();
+        return a * a;
     }
     
 }
