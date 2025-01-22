@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/a/Desktop/AJ/AlifLesson/Lesson/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "/home/a/Desktop/AJ/AlifLesson/Lesson/ConsoleApp1/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "/home/a/Desktop/AJ/AlifLesson/Lesson/ConsoleApp1/Lesson9/Lesson9.csproj",
+      "projectName": "Lesson9",
+      "projectPath": "/home/a/Desktop/AJ/AlifLesson/Lesson/ConsoleApp1/Lesson9/Lesson9.csproj",
       "packagesPath": "/home/a/.nuget/packages/",
-      "outputPath": "/home/a/Desktop/AJ/AlifLesson/Lesson/ConsoleApp1/ConsoleApp1/obj/",
+      "outputPath": "/home/a/Desktop/AJ/AlifLesson/Lesson/ConsoleApp1/Lesson9/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/a/.nuget/NuGet/NuGet.Config"
