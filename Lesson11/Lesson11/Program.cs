@@ -23,8 +23,7 @@ class Program
 
                 Console.WriteLine($"Hello, {name}. You are {age} years old.");
             }
-            catch (ArgumentNullException e)
-            {
+            catch (ArgumentNullException e){
                 Console.WriteLine("Null reference exception");
             }
         }
