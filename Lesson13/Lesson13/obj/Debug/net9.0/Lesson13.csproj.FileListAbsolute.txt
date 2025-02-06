@@ -1,0 +1,15 @@
+/home/velox/Desktop/Aminjon/AlifLesson/Lessons/Lesson13/Lesson13/bin/Debug/net9.0/Lesson13
+/home/velox/Desktop/Aminjon/AlifLesson/Lessons/Lesson13/Lesson13/bin/Debug/net9.0/Lesson13.deps.json
+/home/velox/Desktop/Aminjon/AlifLesson/Lessons/Lesson13/Lesson13/bin/Debug/net9.0/Lesson13.runtimeconfig.json
+/home/velox/Desktop/Aminjon/AlifLesson/Lessons/Lesson13/Lesson13/bin/Debug/net9.0/Lesson13.dll
+/home/velox/Desktop/Aminjon/AlifLesson/Lessons/Lesson13/Lesson13/bin/Debug/net9.0/Lesson13.pdb
+/home/velox/Desktop/Aminjon/AlifLesson/Lessons/Lesson13/Lesson13/obj/Debug/net9.0/Lesson13.GeneratedMSBuildEditorConfig.editorconfig
+/home/velox/Desktop/Aminjon/AlifLesson/Lessons/Lesson13/Lesson13/obj/Debug/net9.0/Lesson13.AssemblyInfoInputs.cache
+/home/velox/Desktop/Aminjon/AlifLesson/Lessons/Lesson13/Lesson13/obj/Debug/net9.0/Lesson13.AssemblyInfo.cs
+/home/velox/Desktop/Aminjon/AlifLesson/Lessons/Lesson13/Lesson13/obj/Debug/net9.0/Lesson13.csproj.CoreCompileInputs.cache
+/home/velox/Desktop/Aminjon/AlifLesson/Lessons/Lesson13/Lesson13/obj/Debug/net9.0/Lesson13.sourcelink.json
+/home/velox/Desktop/Aminjon/AlifLesson/Lessons/Lesson13/Lesson13/obj/Debug/net9.0/Lesson13.dll
+/home/velox/Desktop/Aminjon/AlifLesson/Lessons/Lesson13/Lesson13/obj/Debug/net9.0/refint/Lesson13.dll
+/home/velox/Desktop/Aminjon/AlifLesson/Lessons/Lesson13/Lesson13/obj/Debug/net9.0/Lesson13.pdb
+/home/velox/Desktop/Aminjon/AlifLesson/Lessons/Lesson13/Lesson13/obj/Debug/net9.0/Lesson13.genruntimeconfig.cache
+/home/velox/Desktop/Aminjon/AlifLesson/Lessons/Lesson13/Lesson13/obj/Debug/net9.0/ref/Lesson13.dll
